@@ -1,0 +1,21 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "NoahCode"
+copyright = "© Attribution-NonCommercial-ShareAlike 4.0 International"
+
+[params]
+  dateFormat = "2 January 2006"
+  description = """NoahCode's personal website about programming, blogging and ..."""
+
+[params.author]
+  name = "NoahCode"
+  image = "img/author.jpg"
+  headline = "☠️GG"
+  bio = "Programmer | Blogger | Tech enthusiast"
+  links = [
+    { email = "mailto:noahcodegg@gmail.com" },
+    { github = "https://github.com/NoahCodeGG" },
+  ]
