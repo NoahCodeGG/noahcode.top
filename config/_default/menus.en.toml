@@ -26,16 +26,6 @@
   weight = 20
 
 [[main]]
-  name = "Donation"
-  pageRef = "donation/index"
-  weight = 25
-
-[[main]]
-  name = "Blog"
-  url = "https://blog.andypan.me/"
-  weight = 30
-
-[[main]]
   identifier = "search"
   weight = 99
   [main.params]
