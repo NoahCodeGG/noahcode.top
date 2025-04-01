@@ -1,6 +1,5 @@
 +++
 date = '2025-04-01T09:20:29+08:00'
-draft = true
 title = 'About'
 summary = 'Get to know me better if anyone cares.'
 layout = 'page'
