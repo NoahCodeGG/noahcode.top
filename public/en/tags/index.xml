@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on NoahCode</title>
+    <link>http://localhost:1313/en/tags/</link>
+    <description>Recent content in Tags on NoahCode</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>© Attribution-NonCommercial-ShareAlike 4.0 International</copyright>
+    <lastBuildDate>Tue, 01 Apr 2025 09:20:29 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>http://localhost:1313/en/tags/blog/</link>
+      <pubDate>Tue, 01 Apr 2025 09:20:29 +0800</pubDate>
+      <guid>http://localhost:1313/en/tags/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Introduction</title>
+      <link>http://localhost:1313/en/tags/introduction/</link>
+      <pubDate>Tue, 01 Apr 2025 09:20:29 +0800</pubDate>
+      <guid>http://localhost:1313/en/tags/introduction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal</title>
+      <link>http://localhost:1313/en/tags/personal/</link>
+      <pubDate>Tue, 01 Apr 2025 09:20:29 +0800</pubDate>
+      <guid>http://localhost:1313/en/tags/personal/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

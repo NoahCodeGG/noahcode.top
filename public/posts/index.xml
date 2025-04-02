@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on NoahCode</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on NoahCode</description>
+    <generator>Hugo</generator>
+    <language>zh-Hans</language>
+    <copyright>© 署名—非商业性使用—相同方式共享 4.0 协议国际版</copyright>
+    <lastBuildDate>Wed, 02 Apr 2025 08:48:53 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>初识 Casbin</title>
+      <link>http://localhost:1313/posts/2025/04/02/first-acquaintance-casbin/</link>
+      <pubDate>Wed, 02 Apr 2025 08:48:53 +0800</pubDate>
+      <guid>http://localhost:1313/posts/2025/04/02/first-acquaintance-casbin/</guid>
+      <description>我与 Casbin 的初识</description>
+    </item>
+  </channel>
+</rss>

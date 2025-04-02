@@ -1,0 +1,21 @@
+languageCode = "zh-Hans"
+languageName = "中文"
+languageDirection = "ltr"
+weight = 1
+
+title = "NoahCode"
+copyright = "© 署名—非商业性使用—相同方式共享 4.0 协议国际版"
+
+[params]
+  dateFormat = "2006-01-02"
+  description = "NoahCode 的个人网站，关于编程、博客和..."
+
+[params.author]
+  name = "NoahCode"
+  image = "img/author.jpg"
+  headline = "☠️GG"
+  bio = "程序员 | 技术爱好者"
+  links = [
+    { email = "mailto:noahcodegg@gmail.com" },
+    { github = "https://github.com/NoahCodeGG" },
+  ]

@@ -1,16 +1,16 @@
 +++
 date = '2025-04-01T09:20:29+08:00'
-title = 'About'
-summary = 'Get to know me better if anyone cares.'
+title = '关于'
+summary = '了解我更多，如果有人在乎的话。'
 layout = 'page'
-tags = ['Personal', 'Blog', 'Introduction']
+tags = ['个人', '博客', '介绍']
 +++
 
-## Who am I?
+## 我是谁？
 
 Hi,I'm NoahCode.
 
-## Where to reach out to me?
+## 如何联系我？
 
-- [Send me an email](mailto:noahcodegg@gmail.com)
-- [Issue me on Github](https://github.com/NoahCodeGG)
+- [发送邮件](mailto:noahcodegg@gmail.com)
+- [在 Github 上联系我](https://github.com/NoahCodeGG)

@@ -5,8 +5,8 @@
     <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on NoahCode</description>
     <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>© Attribution-NonCommercial-ShareAlike 4.0 International</copyright>
+    <language>zh-Hans</language>
+    <copyright>© 署名—非商业性使用—相同方式共享 4.0 协议国际版</copyright>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
