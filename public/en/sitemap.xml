@@ -4,17 +4,17 @@
   
     
       <url>
-            <loc>http://localhost:1313/en/about/</loc>
+            <loc>https://noahcode.top/en/about/</loc>
             <lastmod>2025-04-01T09:20:29+08:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="zh-hans"
-              href="http://localhost:1313/about/"
+              href="https://noahcode.top/about/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:1313/en/about/"
+              href="https://noahcode.top/en/about/"
               />
           </url>
     
@@ -25,17 +25,17 @@
   
     
       <url>
-            <loc>http://localhost:1313/en/</loc>
+            <loc>https://noahcode.top/en/</loc>
             <lastmod>2025-04-01T09:20:29+08:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="zh-hans"
-              href="http://localhost:1313/"
+              href="https://noahcode.top/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:1313/en/"
+              href="https://noahcode.top/en/"
               />
           </url>
     

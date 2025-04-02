@@ -8,24 +8,24 @@
   
     
       <url>
-            <loc>http://localhost:1313/</loc>
+            <loc>https://noahcode.top/</loc>
             <lastmod>2025-04-02T08:48:53+08:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:1313/en/"
+              href="https://noahcode.top/en/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="zh-hans"
-              href="http://localhost:1313/"
+              href="https://noahcode.top/"
               />
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/posts/</loc>
+            <loc>https://noahcode.top/posts/</loc>
             <lastmod>2025-04-02T08:48:53+08:00</lastmod>
           </url>
     
@@ -34,7 +34,7 @@
   
     
       <url>
-            <loc>http://localhost:1313/posts/2025/04/02/first-acquaintance-casbin/</loc>
+            <loc>https://noahcode.top/posts/2025/04/02/first-acquaintance-casbin/</loc>
             <lastmod>2025-04-02T08:48:53+08:00</lastmod>
           </url>
     
@@ -47,27 +47,19 @@
   
     
       <url>
-            <loc>http://localhost:1313/about/</loc>
+            <loc>https://noahcode.top/about/</loc>
             <lastmod>2025-04-01T09:20:29+08:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:1313/en/about/"
+              href="https://noahcode.top/en/about/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="zh-hans"
-              href="http://localhost:1313/about/"
+              href="https://noahcode.top/about/"
               />
           </url>
-    
-  
-    
-  
-    
-  
-    
-  
     
   
     
